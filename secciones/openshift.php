@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $openshift = [
-"titulo" => "XXX",
+"titulo" => "Openshift",
 "autor" => "Wikipedia",
-"resumen" => "XXX",
+"resumen" => "Este es el resumen del openshift",
 ];
 ?>
