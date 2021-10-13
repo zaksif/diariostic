@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $portada = [
-"titulo" => "Portada",
+"titulo" => "La portada",
 "autor" => "mtorres",
-"resumen" => "Resumen",
+"resumen" => "El resumen",
 ];
 ?>
